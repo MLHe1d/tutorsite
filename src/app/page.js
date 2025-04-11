@@ -122,12 +122,9 @@ export default function Home() {
           </a>
         </div>
 
-       /* <a href="/dashboard">
-          <button>Личный кабинет</button>
-        </a>*/
       </section>
 
-      {/* Подвал */}
+      {/* Dev */}
       <footer className="footer">
         <p>© 2025 larin.dev. Все права защищены.</p>
       </footer>
