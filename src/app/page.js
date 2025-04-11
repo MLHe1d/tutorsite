@@ -122,9 +122,9 @@ export default function Home() {
           </a>
         </div>
 
-        <a href="/dashboard">
+       /* <a href="/dashboard">
           <button>Личный кабинет</button>
-        </a>
+        </a>*/
       </section>
 
       {/* Подвал */}
